@@ -1,0 +1,11 @@
+agent_name: multimodal_customer_support_agent
+default_session_id: default
+max_history_turns: 10
+enable_query_rewrite: true
+enable_question_decomposition: true
+enable_grounded_generation: true
+enable_fallback_answer: true
+response_language: zh-CN
+image_retrieval:
+  min_relevance_score: 0.55
+  no_relevant_image_message: 未检索到与当前问题足够相关的图片，请不要在回答中附带图片。

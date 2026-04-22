@@ -1,0 +1,6 @@
+main_prompt_path: prompts/main_prompt.txt
+rag_summerize_prompt_path: prompts/rag_summerize.txt
+report_prompt_path: prompts/report_prompt.txt
+
+
+

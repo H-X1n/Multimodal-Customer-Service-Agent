@@ -1,0 +1,4 @@
+2026-04-19 20:21:02,464 - agent - INFO - vector_store.py:107 - [加载知识库] 1/1 文本内容已存在知识库内，跳过D:\PythonProject\agent项目\data\VR头显手册.txt]
+2026-04-19 20:21:02,466 - agent - INFO - vector_store.py:80 - [加载知识库] 1/1 图片已存在: D:\PythonProject\agent项目\data\插图\air_fryer_02.png
+2026-04-19 20:44:05,012 - agent - INFO - vector_store.py:107 - [加载知识库] 1/1 文本内容已存在知识库内，跳过D:\PythonProject\agent项目\data\VR头显手册.txt]
+2026-04-19 20:44:05,014 - agent - INFO - vector_store.py:80 - [加载知识库] 1/1 图片已存在: D:\PythonProject\agent项目\data\插图\air_fryer_02.png

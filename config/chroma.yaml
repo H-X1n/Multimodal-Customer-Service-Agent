@@ -1,0 +1,19 @@
+data_path: data
+img_path: data/插图
+md5_hex_store: md5.text
+#txt向量数据库
+txt_collection_name: agent_txt
+txt_persist_directory: data/txt_chroma_db
+txt_k: 5
+allow_txt_type: ['txt', 'pdf']
+chunk_size: 200
+chunk_overlap: 20
+separators: ['\n\n', '\n', '#']
+#img向量数据库
+img_collection_name: agent_img
+img_persist_directory: data/img_chroma_db
+img_k: 5
+allow_img_type: ['png', 'jpg']
+
+
+
